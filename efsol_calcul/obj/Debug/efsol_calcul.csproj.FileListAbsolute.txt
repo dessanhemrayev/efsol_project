@@ -1,0 +1,6 @@
+D:\projects\efsol_project\efsol_calcul\bin\Debug\efsol_calcul.exe.config
+D:\projects\efsol_project\efsol_calcul\bin\Debug\efsol_calcul.exe
+D:\projects\efsol_project\efsol_calcul\bin\Debug\efsol_calcul.pdb
+D:\projects\efsol_project\efsol_calcul\obj\Debug\efsol_calcul.exe
+D:\projects\efsol_project\efsol_calcul\obj\Debug\efsol_calcul.pdb
+D:\projects\efsol_project\efsol_calcul\obj\Debug\efsol_calcul.csprojAssemblyReference.cache
